@@ -7,7 +7,7 @@ from langchain_openai import ChatOpenAI
 
 load_dotenv()
 
-st.set_page_config(page_title="小米Token申请演示 - 智能客服MVP", layout="wide")
+st.set_page_config(page_title="智能客服MVP", layout="wide")
 
 st.title("🤖 智能客服多Agent协作系统 (MVP演示)")
 st.markdown("---")
